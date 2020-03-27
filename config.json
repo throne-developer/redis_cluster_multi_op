@@ -1,0 +1,9 @@
+{
+    "redis_addrs":[
+        "10.11.3.104:6000",
+        "10.11.3.125:6000",
+        "10.11.3.104:6000"
+    ],
+    "redis_pwd":"pass",
+    "command_file":"commands.csv"
+}
