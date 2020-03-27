@@ -23,7 +23,7 @@ set,key1,11
 set,key2,22
 set,key3,11
 ```
-（3）go build得到exe程序，将config.json和exe放在同一目录下，然后执行exe，输出如下：
+（3）go build得到exe程序，也可以直接使用编译好的redis_cluster_multiop程序（linux版本），将config.json和exe放在同一目录下，然后执行exe，输出如下：
 ```javascript
 2020-03-27 18:06:24 [info]  loadFile commands.csv 3
 reply  0 OK
