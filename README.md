@@ -1,4 +1,4 @@
-# redis_clsuter_multi_op
+# redis_cluster_multi_op
 execute redis commands on redis cluster
 
 # 中文说明
